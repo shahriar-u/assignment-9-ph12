@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Full Winter Grooming",
+    "image": "https://i.ibb.co.com/Wvvf1rDT/71-Ylqbv-BTSL.jpg",
+    "category": "Health & Care",
+    "rating": 4.8,
+    "price": 45,
+    "duration": "1.5 Hours",
+    "status": "Available",
+    "description": "Special winter bath and fur trimming for pets to keep them clean and warm."
+  },
+  {
+    "id": 2,
+    "serviceName": "Cozy Pet Boarding",
+    "image": "https://i.ibb.co.com/TD7QwXNY/images.jpg",
+    "category": "Accommodation",
+    "rating": 4.9,
+    "price": 60,
+    "duration": "Per Night",
+    "status": "Available",
+    "description": "Heated rooms and premium comfort for your pets during cold winter nights."
+  },
+  {
+    "id": 3,
+    "serviceName": "Winter Vaccination",
+    "image": "https://i.ibb.co.com/QF3qsscC/images.jpg",
+    "category": "Medical",
+    "rating": 4.7,
+    "price": 30,
+    "duration": "30 Mins",
+    "status": "Available",
+    "description": "Flu shots and general winter health checkup by expert veterinarians."
+  },
+  {
+    "id": 4,
+    "serviceName": "Dog Training",
+    "image": "https://i.ibb.co.com/7xfk4PvF/IMG-3246.jpg",
+    "category": "Education",
+    "rating": 4.6,
+    "price": 55,
+    "duration": "1 Hour",
+    "status": "Limited",
+    "description": "Basic and advanced obedience training session for all dog breeds."
+  },
+  {
+    "id": 5,
+    "serviceName": "Pet Daycare",
+    "image": "https://i.ibb.co.com/7xfk4PvF/IMG-3246.jpg",
+    "category": "Care",
+    "rating": 4.9,
+    "price": 25,
+    "duration": "Full Day",
+    "status": "Available",
+    "description": "Safe, fun, and interactive environment for your pets while you are away."
+  },
+  {
+    "id": 6,
+    "serviceName": "Emergency Care",
+    "image": "https://i.ibb.co.com/7xfk4PvF/IMG-3246.jpg",
+    "category": "Medical",
+    "rating": 5.0,
+    "price": 100,
+    "duration": "Instant",
+    "status": "24/7",
+    "description": "Round-the-clock emergency medical support for critical pet health issues."
+  }
+]
