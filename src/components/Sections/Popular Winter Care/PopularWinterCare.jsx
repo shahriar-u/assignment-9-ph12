@@ -17,7 +17,7 @@ const PopularWinterCare = () => {
 
         <div className="text-center mb-16">
           <p className="text-pink-500 font-bold uppercase tracking-widest text-sm">// Our Services //</p>
-          <h2 className="text-4xl md:text-5xl font-extrabold text-[#2d3a5e] mt-2">Popular Winter Care Services</h2>
+          <h2 className="text-4xl md:text-5xl font-extrabold text-[#2d3a5e] mt-2">Popular Skills</h2>
         </div>
 
         

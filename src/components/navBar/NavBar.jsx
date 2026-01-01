@@ -22,7 +22,7 @@ const NavBar = () => {
         <NavLink to="/">Home</NavLink>
       </li>
       <li>
-        <NavLink to="/services">Services</NavLink>
+        <NavLink to="/services">Skill Details</NavLink>
       </li>
       <li>
         <NavLink to="/profile">My Profile</NavLink>
@@ -35,7 +35,7 @@ const NavBar = () => {
       
       <div className="flex-1">
         <Link to="/" className="btn btn-ghost text-xl font-bold p-0">
-          daisyUI
+          SkillSwap
         </Link>
       </div>
 

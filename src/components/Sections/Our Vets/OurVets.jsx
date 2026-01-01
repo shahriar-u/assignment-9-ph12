@@ -5,7 +5,7 @@ const OurVets = () => {
 
   
   useEffect(() => {
-    fetch("/vets.json")
+    fetch("/team.json")
       .then((res) => res.json())
       .then((data) => setTeam(data));
   }, []);
@@ -18,7 +18,7 @@ const OurVets = () => {
           // Our Team //
         </p>
         <h2 className="text-4xl md:text-6xl font-black text-white leading-tight">
-          Our VETS<span className="text-pink-500">.</span>
+          Our Team<span className="text-pink-500">.</span>
         </h2>
       </div>
 
